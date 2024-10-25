@@ -1,4 +1,4 @@
-# signalyze
+# SIGNALYZE
 
 
 # Fake Signature Detection
